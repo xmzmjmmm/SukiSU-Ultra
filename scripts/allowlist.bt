@@ -86,4 +86,3 @@ FSeek(8); // Skip the header
 while (!FEof()) {
     app_profile profile;
 }
-
